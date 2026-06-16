@@ -3,6 +3,11 @@
 📈 Macroeconomic Wage & Statutory Limit Forecasting
 Power BI Forecasting Dashboard
 
+
+
+
+
+
 📌 **Project Overview**
 This project is an interactive modernization of a static Excel projection model I originally built at the Canada Revenue Agency in 2021. 
 
