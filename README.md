@@ -4,7 +4,7 @@
 Power BI Forecasting Dashboard
 
 
-
+<img width="1428" height="802" alt="Dashboard Gif" src="https://github.com/user-attachments/assets/9568328e-dd4e-4c9b-a343-08de70f365ac" />
 
 
 
@@ -37,6 +37,10 @@ Engineered conditional columns to segment data. Built a "CPP Era" column mapping
 **Star Schema (1-to-Many):**
 Architected an optimized database model connecting three distinct transactional fact tables (Limits, Income, Inflation) to a single central dimension table.
 
+
+<img width="990" height="534" alt="Screenshot 2026-06-15 213506" src="https://github.com/user-attachments/assets/b1802a3f-d5e4-465b-b01e-27a3f716f5a4" />
+
+
 **Rolling Calendar:**
 Generated a custom integer-based calendar table (1980 to 2040) natively in Power Query using list generation logic to support continuous timeline projections.
 
@@ -66,13 +70,6 @@ A clean, matrix-based tracking sheet designed for HR directors to track historic
 
 **Custom Tooltip:**
 A custom report page tooltip designed so that hovering over the main inflation chart generates a dynamic mini-dashboard detailing that specific year's inflation breakdown.
-
-
-📈 Dashboard Previews
-[Screenshot 1 Placeholder] 
-[Screenshot 2 Placeholder] 
-[Screenshot 3 Placeholder] 
-[Screenshot 4 Placeholder]
 
 
 **📂 Repository Contents**
