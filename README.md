@@ -61,16 +61,19 @@ Created secondary baseline measures tracking my original 2021 projections agains
 📊 **Dashboard Features**
 **Executive Forecast:**
 High-level KPIs, user-driven "What-If" growth sliders, and a main projection chart showing historical actuals transitioning into predictive trend lines against a static $100k ceiling.
+<img width="897" height="502" alt="Executive Forecast" src="https://github.com/user-attachments/assets/a060993e-6f5e-49e1-89b5-2b3962661c66" />
 
 **Macro Drivers:**
 An analysis showing the growing gap between average and median income, alongside a 100% stacked column chart detailing exactly which categories (Food, Shelter, Transport) drove inflation during specific legislative eras.
+<img width="900" height="500" alt="Benefits Limits" src="https://github.com/user-attachments/assets/174bd7c2-4060-4fd1-8927-13396bd3a14d" />
 
 **Corporate Wealth & Benefit Limits:**
 A clean, matrix-based tracking sheet designed for HR directors to track historical and current TFSA, RRSP, and ALDA limits.
+<img width="900" height="500" alt="Benefits Limits" src="https://github.com/user-attachments/assets/174bd7c2-4060-4fd1-8927-13396bd3a14d" />
 
 **Custom Tooltip:**
 A custom report page tooltip designed so that hovering over the main inflation chart generates a dynamic mini-dashboard detailing that specific year's inflation breakdown.
-
+<img width="557" height="413" alt="Category Tooltip" src="https://github.com/user-attachments/assets/a686e1d6-b851-467f-bef3-436544ad5aac" />
 
 **📂 Repository Contents**
 01_Raw_Data: Raw backup CSV and Excel files.
