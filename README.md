@@ -1,11 +1,10 @@
+
 # Macroeconomic-Wage-Forecasting
 
 📈 Macroeconomic Wage & Statutory Limit Forecasting
 Power BI Forecasting Dashboard
 
-
-<img width="1428" height="802" alt="Dashboard Gif" src="https://github.com/user-attachments/assets/9568328e-dd4e-4c9b-a343-08de70f365ac" />
-
+<img width="1428" height="804" alt="Dashboard Gif" src="https://github.com/user-attachments/assets/74d520a9-1b06-449e-a4e0-6a9afefc88ac" />
 
 
 📌 **Project Overview**
