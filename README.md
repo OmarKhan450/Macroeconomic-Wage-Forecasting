@@ -4,7 +4,8 @@
 📈 Macroeconomic Wage & Statutory Limit Forecasting
 Power BI Forecasting Dashboard
 
-<img width="1428" height="804" alt="Dashboard Gif" src="https://github.com/user-attachments/assets/74d520a9-1b06-449e-a4e0-6a9afefc88ac" />
+<img width="1420" height="804" alt="Dashboard Gif" src="https://github.com/user-attachments/assets/fc62fae8-26e4-439a-ac0f-f3413f285f2d" />
+
 
 
 📌 **Project Overview**
@@ -61,7 +62,8 @@ Created secondary baseline measures tracking my original 2021 projections agains
 **Executive Forecast:**
 High-level KPIs, user-driven "What-If" growth sliders, and a main projection chart showing historical actuals transitioning into predictive trend lines against a static $100k ceiling.
 
-<img width="897" height="502" alt="Executive Forecast" src="https://github.com/user-attachments/assets/a060993e-6f5e-49e1-89b5-2b3962661c66" />
+<img width="895" height="501" alt="Executive Forecast" src="https://github.com/user-attachments/assets/eab6e2c4-9ef8-472b-9ca0-5810789d2b51" />
+
 
 **Macro Drivers:**
 An analysis showing the growing gap between average and median income, alongside a 100% stacked column chart detailing exactly which categories (Food, Shelter, Transport) drove inflation during specific legislative eras.
@@ -72,7 +74,8 @@ An analysis showing the growing gap between average and median income, alongside
 **Corporate Wealth & Benefit Limits:**
 A clean, matrix-based tracking sheet designed for HR directors to track historical and current TFSA, RRSP, and ALDA limits.
 
-<img width="895" height="500" alt="Benefits Limits" src="https://github.com/user-attachments/assets/29500592-2a0f-4d66-9b61-e6fb074d17d7" />
+<img width="894" height="501" alt="Benefits Limits" src="https://github.com/user-attachments/assets/f6b90e2f-7c89-4425-80ae-cea4e631fe59" />
+
 
 **Custom Tooltip:**
 A custom report page tooltip designed so that hovering over the main inflation chart generates a dynamic mini-dashboard detailing that specific year's inflation breakdown.
