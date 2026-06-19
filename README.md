@@ -83,9 +83,9 @@ A custom report page tooltip designed so that hovering over the main inflation c
 <img width="557" height="413" alt="Category Tooltip" src="https://github.com/user-attachments/assets/a686e1d6-b851-467f-bef3-436544ad5aac" />
 
 **📂 Repository Contents**
-01_Raw_Data: Raw backup CSV and Excel files.
-02_Assets: Custom logos and navigation icons.
-03_PBIX_File: The complete Power BI Desktop project file.
+01_PBIX_File: The complete Power BI Desktop project file.
+02_Documentation: Statistics Canada Table Sources.
+
 
 
 **🧮 Key DAX Measures**
